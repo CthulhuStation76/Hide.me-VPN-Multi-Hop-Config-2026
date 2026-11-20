@@ -1,0 +1,26 @@
+{
+  "repo": "hideme-vpn-multi-hop-config-2026",
+  "product": "Hide.me VPN Multi Hop Config 2026",
+  "kind": "security",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "password-manager",
+  "topics": [
+    "hide-me-vpn-multi",
+    "hide-me-vpn-multi-desktop",
+    "hide-me-vpn-multi-release",
+    "hide-me-vpn-multi-windows",
+    "endpoint-security",
+    "malware-defense",
+    "privacy-tools",
+    "network-security",
+    "firewall-client",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Hide.me VPN Multi Hop Config"
+}
